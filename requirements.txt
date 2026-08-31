@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-community
+duckduckgo-search
+langchain-openrouter
+python-dotenv
+beautifulsoup4
