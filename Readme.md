@@ -63,7 +63,7 @@ The system uses a cyclical graph architecture containing 3 core nodes and a stat
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Nikhilkumar2311/Research-Agent.git
 cd YOUR_REPO_NAME
 ```
 
