@@ -64,7 +64,7 @@ The system uses a cyclical graph architecture containing 3 core nodes and a stat
 
 ```bash
 git clone https://github.com/Nikhilkumar2311/Research-Agent.git
-cd YOUR_REPO_NAME
+cd Research-Agent
 ```
 
 ### 2. Set up a virtual environment
